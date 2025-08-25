@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as full stack deveoper & design UI,UX & Devops & adobe photoshop and pr <br>- 📚 I'm learning ...<br>- ⚡ </p>
 
 ###
 
