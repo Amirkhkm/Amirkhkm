@@ -17,7 +17,7 @@
 
 <h1 align="center" style="margin-top: 20px;">Amir Khodkame 👋</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 <p style="margin-left: 12px;">I'm a passionate developer working with web technologies, cloud platforms, and modern frameworks. I love creating clean, responsive, and interactive applications.</p>
 
 <h3 align="left" style="margin-top: 20px;">🛠 Languages & Tools</h3>
@@ -40,9 +40,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="40" alt="Figma" style="border-radius: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="Git" style="border-radius: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" style="border-radius: 6px;" />
-</div>
-
-<h3 align="left" style="margin-top: 20px;">🔥 My Stats</h3>
-<div align="center" style="margin-top: 12px;">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="220" alt="streak graph" style="box-shadow: 0 4px 15px rgba(0,0,0,0.2); border-radius: 12px;" />
 </div>
